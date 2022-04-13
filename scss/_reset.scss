@@ -1,12 +1,15 @@
 * {
-    margin: 0px; padding: 0px;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
-ul, ol {
-    list-style: none;
+ul,
+ol {
+  list-style: none;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 body {
-    background: #efefef;
+  background: #efefef;
 }

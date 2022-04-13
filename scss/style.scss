@@ -1,3 +1,12 @@
 @charset "utf-8";
 @import "reset";
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+$web: 1199px;
+$tabletBig: 899px;
+$tabletMid: 799px;
+$tabletSmall: 699px;
+$mobile: 469px;
+
+@import "header";
+@import "content";
